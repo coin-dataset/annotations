@@ -1,10 +1,10 @@
 # COIN Dataset
 
-> [COIN](website link) is the currently largest dataset for comprehensive instruction video analysis. It contains 11,827 videos of 180 different tasks (i.e., car polishing, make French fries) related to 12 domains (i.e., vehicle, dish). All videos are collected from YouTube and annotated with an efficient [toolbox](tool link).
+> [COIN](https://coin-dataset.github.io/) is the currently largest dataset for comprehensive instruction video analysis. It contains 11,827 videos of 180 different tasks (i.e., car polishing, make French fries) related to 12 domains (i.e., vehicle, dish). All videos are collected from YouTube and annotated with an efficient [toolbox](https://github.com/coin-dataset/annotation-tool).
 
 
 ## Authors and Contributors
-Yansong Tang(1), Dajun Ding(2), Yongming Rao(1), Yu Zheng(1), Danyang Zhang(1), Lili Zhao(2), Jiwen Lu(1), Jie Zhou(1), Yongxiang Lian(1), Yao Li(2), Jiali Sun(2), Jiayun Wang(3)
+Yansong Tang(1), Dajun Ding(2), Yongming Rao(1), Yu Zheng(1), Danyang Zhang(1), Lili Zhao(2), Jiwen Lu(1), Jie Zhou(1), Yongxiang Lian(1), Yao Li(2), Jiali Sun(2), Jiayun Wang(3), Chang Liu(2), Dongge You(2), Zirun Yang(2), Jiaojiao Ge(2)
 
 * (1 Tsinghua University)
 * (2 Meitu)
@@ -100,7 +100,4 @@ The annotation information is saved in [`COIN.json`](COIN.json).
 | `annotation`:`id`        | int                          | 212              | ID number of the procedure.                                                                                |
 | `annotation`:`label`       | string                          | `take out the laptop CD drive`             | Name of the procedure.                                                                                |
 | `annotation`:`segment`         | list of float (len=2)   | `[60.0,69.0]`     | Start and end time of the procedure.                                                                          |
-## Changelog
-03/05/19: initial Release
-
 
