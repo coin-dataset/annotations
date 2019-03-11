@@ -5,12 +5,11 @@
 
 ## Authors and Contributors
 <p>
-Yansong Tang<sup>*</sup>, Dajun Ding<sup>†</sup>, Yongming Rao<sup>*</sup>, Yu Zheng<sup>*</sup>, Danyang Zhang<sup>*</sup>, Lili Zhao<sup>†</sup>, Jiwen Lu<sup>*</sup>, Jie Zhou<sup>*</sup>, Yongxiang Lian<sup>*</sup>, Yao Li<sup>†</sup>, Jiali Sun<sup>†</sup>, Chang Liu<sup>†</sup>, Dongge You<sup>†</sup>, Zirun Yang<sup>†</sup>, Jiaojiao Ge<sup>†</sup>, Jiayun Wang<sup>‡</sup>
+Yansong Tang<sup>*</sup>, Dajun Ding<sup>†</sup>, Yongming Rao<sup>*</sup>, Yu Zheng<sup>*</sup>, Danyang Zhang<sup>*</sup>, Lili Zhao<sup>†</sup>, Jiwen Lu<sup>*</sup>, Jie Zhou<sup>*</sup>, Yongxiang Lian<sup>*</sup>, Yao Li<sup>†</sup>, Jiali Sun<sup>†</sup>, Chang Liu<sup>†</sup>, Dongge You<sup>†</sup>, Zirun Yang<sup>†</sup>, Jiaojiao Ge<sup>†</sup>, Jiayun Wang<sup>*</sup>
 </p>
 
 - <sup>*</sup>Tsinghua University
 - <sup>†</sup>Meitu Inc.
-- <sup>‡</sup>Beihang University
 
 **Contact:** [coin.dataset@gmail.com](mailto:coin.dataset@gmail.com)
 
