@@ -13,3 +13,9 @@ https://mega.nz/#!l10VmKxC!_TPJd1NBjmSQdNgwF0x21FaleySk41nzAwsHZuIXg9k
 https://mega.nz/#!cl13SQgI!s8jDog5qu_gkXaSXBBR_jgv4FDycry0faRQHGJoscxg
 https://mega.nz/#!F0lD3YRL!rWLLRJaCYrZoZNLdKX-JM7peT6cWeLrYkqz_Ho5VG3U
 https://mega.nz/#!V98x1Q4J!x7vB8PLPOsIzX2QE9WJ9gNyQVTjGg_WGl9xVnPSZs14
+
+Tips:
+1.For action segmentation task, we used the framerate of 10fps for all the videos. 
+So you can time the second ID by 10 to obtain the frame ID.
+
+2.We consider background class during testing to calculate accuracy.
